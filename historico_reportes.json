@@ -1,0 +1,86 @@
+[
+    {
+        "categoria": "acoso_intimidacion_confinamiento",
+        "nivel_termometro": 85,
+        "ubicacion_mapa": "baños_segundo_piso",
+        "alerta_externa": true
+    },
+    {
+        "fecha": "2026-05-06 16:03:16",
+        "categoria": "Acoso sexual escolar",
+        "nivel_termometro": 8,
+        "ubicacion_especifica": "Gimnasio",
+        "alerta_externa": true
+    },
+    {
+        "fecha": "2026-05-06 16:05:31",
+        "categoria": "Afectación a la convivencia escolar",
+        "nivel_termometro": 2,
+        "ubicacion_especifica": "Baños",
+        "alerta_externa": false
+    },
+    {
+        "fecha": "2026-05-06 16:08:06",
+        "categoria": "Violencia sexual - Contacto físico no consentido",
+        "nivel_termometro": 8,
+        "ubicacion_especifica": "Gimnasio",
+        "alerta_externa": true
+    },
+    {
+        "fecha": "2026-05-06 16:12:48",
+        "categoria": "Acoso escolar - Hurto de bien educativo",
+        "nivel_termometro": 6,
+        "ubicacion_especifica": "Aula de clases",
+        "alerta_externa": false
+    },
+    {
+        "fecha": "2026-05-06 17:59:43",
+        "categoria": "Tipo I",
+        "nivel_termometro": 35,
+        "ubicacion_especifica": "Pasillos",
+        "alerta_externa": false
+    },
+    {
+        "fecha": "2026-05-07 12:49:03.253552",
+        "categoria": "Tipo II",
+        "nivel_termometro": 6,
+        "ubicacion_especifica": "Cafetería - Zona de distribución/consumo",
+        "frecuencia_documentada": "2-3 veces",
+        "ruta_asignada": "Restaurativa",
+        "dias_atencion": "7-14 días",
+        "responsable_coordinacion": "Orientador/Mediador",
+        "medidas_cautelares": "Supervisión en cafetería"
+    },
+    {
+        "fecha": "2026-05-07 13:28:00.771545",
+        "categoria": "Tipo II",
+        "nivel_termometro": 6,
+        "ubicacion_especifica": "Ruta Escolar",
+        "curso": "Grado 4",
+        "agresor": "Compañero/a Grado 10"
+    },
+    {
+        "fecha": "2026-05-07 13:30:35.558950",
+        "categoria": "Tipo II",
+        "nivel_termometro": 6,
+        "ubicacion_especifica": "Ruta Escolar",
+        "curso": "Grado 4",
+        "agresor": "Compañero/a - Grado 10"
+    },
+    {
+        "fecha": "2026-05-07 13:38:49.185246",
+        "categoria": "Tipo II",
+        "nivel_termometro": 6,
+        "ubicacion_especifica": "Salón de clase",
+        "curso": "Grado 11",
+        "agresor": "Compañero/a"
+    },
+    {
+        "fecha": "2026-05-07 14:11:06.459603",
+        "categoria": "Tipo II",
+        "nivel_termometro": 2,
+        "ubicacion_especifica": "Salón de clase",
+        "curso": "Grado 11",
+        "agresor": "Compañero/a"
+    }
+]
