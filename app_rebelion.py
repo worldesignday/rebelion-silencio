@@ -98,7 +98,7 @@ if menu == "Portal Estudiante":
     # PASO 3: TOMA ACCIÓN
     elif st.session_state.paso == 3:
         st.subheader("Paso 3: TOMA ACCIÓN")
-        client = anthropic.Anthropic(api_key="")
+        client = anthropic.Anthropic(api_key="sk-ant-...")
         
         with st.spinner(f"{st.session_state.avatar} está analizando tu caso..."):
             contexto = AVATARES[st.session_state.avatar]
